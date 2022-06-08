@@ -2,7 +2,7 @@
 ### 系統原始檔說明
 | 檔案(資料夾)名稱 | 說明 |
 | :----- | :----- |
-[student_codes](https://drive.google.com/drive/folders/1cPBZPclzEp8n9TXH3qr6CjnJWdXYqmx0?usp=sharing)(資料夾) | 於 student_codes 資料夾內，有全部學生樣本程 式碼，分別再以 1~901(資料夾)代表一個樣本程 式碼，1~901 代表每一個程式的編號
+[student_codes](https://drive.google.com/drive/folders/1cPBZPclzEp8n9TXH3qr6CjnJWdXYqmx0?usp=sharing)(資料夾) | 於 student_codes 資料夾內，有全部學生樣本程式碼，分別再以1-901(資料夾)代表一個樣本程式碼，1-901 代表每一個程式的編號
 程式錯誤總頻.xlsx | 判斷所有樣本程式碼所屬於哪一項錯誤，有該項錯誤標示為 1，無該項錯誤標示為 0。
 sourcecodes.txt | 將所有樣本程式碼寫入單個文字檔方便類神經模型做讀取，並將樣本程式碼的總樣本數做擴增。
 labels.txt | 將程式錯誤總頻.xlsx 轉換為文字檔方便類神經模型讀取。
